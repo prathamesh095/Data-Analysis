@@ -61,7 +61,7 @@ pip install pandas numpy plotly matplotlib seaborn scikit-learn
    ```
 2. Navigate to the project directory:
    ```sh
-   cd Data-Analysis/Electric Vehicle Market & Consumer Insights Analysis (USA)
+   cd Data-Analysis/U.S.A Electric Vehicle Market & Consumer Insights Analysis 
    ```
 3. Run the Jupyter Notebook:
    ```sh
