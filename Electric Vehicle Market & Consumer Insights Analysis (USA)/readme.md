@@ -57,15 +57,15 @@ pip install pandas numpy plotly matplotlib seaborn scikit-learn
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/ev-market-analysis.git
+   git clone https://github.com/prathamesh095/Data-Analysis.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd ev-market-analysis
+   cd Data-Analysis/Electric Vehicle Market & Consumer Insights Analysis (USA)
    ```
 3. Run the Jupyter Notebook:
    ```sh
-   jupyter notebook Elcetric_vehicle.ipynb
+   jupyter notebook 'Electric Vehicle Market & Consumer Insights Analysis (USA).ipynb'
    ```
 
 ## 🚀 Usage Instructions
