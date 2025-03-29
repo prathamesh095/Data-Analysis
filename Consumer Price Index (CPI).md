@@ -22,20 +22,6 @@ The **Consumer Price Index (CPI) Analysis Pipeline** is a data-driven project ai
 3. **Storage**: Stores processed data in MySQL for efficient retrieval.
 4. **Analysis & Visualization**: Uses Pandas and Matplotlib to generate insights and trends.
 
-## Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/cpi-analysis.git
-   ```
-2. Install dependencies:
-   ```bash
-   pip install pandas numpy matplotlib mysql-connector-python
-   ```
-3. Set up MySQL database and configure connection settings in the script.
-4. Run the script to compute and analyze CPI:
-   ```bash
-   python cpi_analysis.py
-   ```
 
 ## Future Enhancements
 - Integration with real-time data sources (e.g., APIs).
