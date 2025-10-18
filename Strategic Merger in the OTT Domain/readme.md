@@ -219,7 +219,7 @@ MIT License—use freely, attribute as "OTT Merger Analytics: Hotstar-JioCinema 
 ## Contact
 
 **Prathamesh Pawar**  
-- Email: [prathamesh095@gmail.com](mailto:prathamesh095@gmail.com)  
+- Email: [pawarprathamesh095@gmail.com](mailto:pawarprathamesh095@gmail.com)  
 - LinkedIn: [linkedin.com/in/prathamesh095](https://www.linkedin.com/in/prathamesh095)  
 - GitHub: [github.com/prathamesh095](https://github.com/prathamesh095)  
 
