@@ -158,10 +158,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 - **Name:** Prathamesh sanjay Pawar
-- **GitHub:** [https://github.com/prathamesh095 ](https://github.com/prathamesh095)
-- **LinkedIn:** [https://www.linkedin.com/in/prathamesh095](https://www.linkedin.com/in/prathamesh095)
-- **Email:** [pawarprathamesh095@gmail.com](pawarprathamesh095@gmail.com)
+## 🔗 Links
 
+[![portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dataverse-profile.vercel.app/)  
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh095/)  
+[![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prathamesh095)
 
 Feel free to connect for collaborations on data analytics, media insights, or open-source projects!
 
